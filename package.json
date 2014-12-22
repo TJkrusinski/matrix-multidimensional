@@ -1,0 +1,24 @@
+{
+  "name": "matrix-dimensional",
+  "version": "1.0.1",
+  "description": "Create multidimensional arrays based off a matrix where the length of each item is the value of that position in the matrix",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TJkrusinski/matrix-multidimensional.git"
+  },
+  "keywords": [
+    "matrix",
+    "multidimensional",
+    "array"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/matrix-multidimensional/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/matrix-multidimensional"
+}
